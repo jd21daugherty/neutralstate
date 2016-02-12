@@ -1,0 +1,61 @@
+.box {
+  border-radius: 25px;
+  background: #c2c2d6;
+  padding: 20px;
+  width: 350px;
+  height: 300px;
+  box-shadow: 10px 10px 5px #888888;
+
+}
+
+#answerbox {
+  border-radius: 25px;
+  background: #c2c2d6;
+  padding: 20px;
+  width: 900px;
+  height: 200px;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+
+#aggressive {
+  background-image: url(http://www.mygladiators.com/images/title-pic.jpg);
+  background-size: 200% 150%;
+  background-repeat: no-repeat;
+  opacity: 0.75;
+
+}
+
+#bribe {
+  background-image: url(http://www.globaltimes.cn/attachment/090821/fe1c96be38.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  opacity: 0.75;
+}
+
+#influence {
+  background-image: url(http://gapyearexperiment.com/wp-content/uploads/2015/06/influence-people.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    opacity: 0.65;
+}
+
+p {
+  font-family: ‘Courier New’, Courier, monospace;
+  font-weight: 200;
+  font-size: 50px;
+  text-align: center;
+
+}
+
+.footer {
+  font-size: 17px;
+  text-align: left;
+}
+
+#answer{
+  font-family: ‘Courier New’, Courier, monospace;
+  font-weight: 200;
+  font-size: 50px;
+  text-align: center;
+}
